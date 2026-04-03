@@ -19,14 +19,8 @@
 
 ```typescript
 const EasXu = {
-  name:     "EasXu",
-  role:     "Full Stack Developer",
-  location: "[你的城市]",
-  motto:    "Code is poetry. Ship it.",
-
-  currentlyLearning: ["[当前学习中的技术，例如 Rust / LLM / K8s]"],
-  funFact:           "[一个关于你的有趣事实]",
-};
+  name:     "EastonXu",
+  role:     "Student",
 ```
 
 ---
