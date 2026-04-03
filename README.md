@@ -61,11 +61,6 @@ const EasXu = {
 
 ## 📊 GitHub Stats · 统计数据
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EasXu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff" height="170" alt="EasXu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasXu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff" height="170" alt="Top Languages" />
-</div>
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EasXu&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
