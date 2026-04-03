@@ -1,7 +1,7 @@
 <!-- 顶部打字动画 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+EasXu+%F0%9F%91%8B;Full+Stack+Developer;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+EasXu+%F0%9F%91%8B;Student+%7C+Explorer+%7C+Builder;Embedded+%2F+Software+%2F+Reverse+%2F+ML;%E6%96%87%E6%98%8E%E5%85%B6%E7%B2%BE%E7%A5%9E%EF%BC%8C%E9%87%8E%E8%9B%AE%E5%85%B6%E4%BD%93%E9%AD%84+%F0%9F%92%AA" alt="Typing SVG" />
 </div>
 
 
@@ -13,50 +13,58 @@
 
 ---
 
-<!-- 个人简介 -->
-
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me · 关于我
 
 ```typescript
 const EasXu = {
-  name:     "EastonXu",
-  role:     "Student",
+  identity : "Student & Lifelong Learner · 学生 & 终身学习者",
+  exploring : [
+    "Embedded Development  · 嵌入式开发",
+    "Software Development  · 软件开发",
+    "Reverse Engineering   · 逆向工程",
+    "Algorithms            · 算法",
+    "Machine Learning      · 机器学习",
+  ],
+  languages : ["C", "C++", "Java", "Python"],
+  status    : "All in learning mode 🚀 · 一切都在学习中",
+  offscreen : ["Hitting the gym 🏋️", "Staying curious 🔍"],
+  motto     : "文明其精神，野蛮其体魄",
+              // "Civilize the mind, make savage the body."
+};
 ```
 
 ---
 
-<!-- 技术栈 -->
+## 🛠️ Tech Stack · 技术栈
 
-## 🛠️ Tech Stack
+**Languages · 编程语言**
 
-**Frontend**
-<!--
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
- -->
-**Backend**
-<!--
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
- -->
-**Database & DevOps**
-<!--
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
- -->
+
+**Domains · 技术方向**
+
+![Embedded](https://img.shields.io/badge/Embedded_Dev-00897B?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-6A1B9A?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-1565C0?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+**Tools · 常用工具**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
 
-<!-- GitHub 统计 -->
+## 📊 GitHub Stats · 统计数据
 
-## 📊 GitHub Stats
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EasXu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff" height="170" alt="EasXu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasXu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff" height="170" alt="Top Languages" />
+</div>
 
 
 <div align="center">
@@ -71,11 +79,17 @@ const EasXu = {
 
 ---
 
-<!-- 底部波浪 -->
+<div align="center">
+  <sub>
+    "Civilize the mind, make savage the body." · 文明其精神，野蛮其体魄
+  </sub>
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6EE7B7&height=100&section=footer" />
 </div>
+
 
 
 <!--
